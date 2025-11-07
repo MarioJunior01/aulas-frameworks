@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header>
       <ion-toolbar>
-        <ion-title>Imagens Bonitinhas</ion-title>
+        <ion-title>InstaFake2.0</ion-title>
       </ion-toolbar>
     </ion-header>
 
